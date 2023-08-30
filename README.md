@@ -368,6 +368,10 @@ To restore on a different device, make sure to specify the `filename`. on restor
 # Compatible devices
 
 ```
+Firmware Version : Ver 6.60 Oct 12 2021
+Platform         : ZMM510_TFT
+DeviceName       : FA900 WIFI
+
 Firmware Version : Ver 6.21 Nov 19 2008
 Platform : ZEM500
 DeviceName : U580
@@ -449,6 +453,7 @@ DeviceName : iClock3000/ID (Active testing! latest fix)
 Firmware Version : Ver 6.70 Jul 12 2013
 Platform : ZEM600_TFT
 DeviceName : iClock880-H/ID (Active testing! latest fix)
+
 ```
 
 ### Not Working (needs more tests, more information)
